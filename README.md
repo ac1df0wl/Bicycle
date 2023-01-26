@@ -1,2 +1,2 @@
 # Bicycle theme template
-- https://ac1df0wl.github.io/Bicycle
+- link: https://ac1df0wl.github.io/Bicycle
